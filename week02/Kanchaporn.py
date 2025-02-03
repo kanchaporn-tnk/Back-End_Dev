@@ -1,0 +1,5 @@
+print("INTRODUCTION")
+print("Name : Kanchaporn Boontam")
+print("Nickname : Cha")
+print("No. : 13")
+print("StdNo. : 67319010059")
